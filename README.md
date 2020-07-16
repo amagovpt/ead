@@ -6,5 +6,5 @@
 
 - Anexos
   - Código fonte tools e manuais
-    - [Gerador WAI-Tools PT v1.5](https://amagovpt.github.io/gerador/)
-    - [Kit Selo](https://amagovpt.github.io/kit-selo/)
+    - [Gerador WAI-Tools PT v1.5](/gerador/)
+    - [Kit Selo](/kit-selo/)
