@@ -12,7 +12,6 @@
 - [MonitorServer](https://amagovpt.github.io/monitor-server)
 - [Manuals of AccessMonitor Ecosystem](https://amagovpt.github.io/monitor-manuals)
 - [Mirror of validator.w3.org - HTML validator](https://amagovpt.github.io/validator-html)
-
 - Anexos
   - Código fonte tools e manuais
     - [Gerador WAI-Tools PT v1.5](https://amagovpt.github.io/gerador/)
