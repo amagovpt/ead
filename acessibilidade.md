@@ -1,5 +1,3 @@
-# Repositório de recursos da Equipa de Experiência Digital
-
 ## Acessibilidade
 
 ### Source code of the AccessMonitor Ecosystem (repos at GitHub)
