@@ -46,7 +46,7 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 - [Admin Monitor Suite](https://github.com/amagovpt/admin-monitor-suite) - this application is used to manage all AccessMonitor Ecosystem applications. It is to be used by a team whose mission is to monitor the evolution of a wide range of websites. In Portugal this application is used by the AMA Digital Experience Team to monitor all Portuguese Public Administration websites.
 - [MonitorServer](https://github.com/amagovpt/monitor-server) - supports the 5 applications of the AccessMonitor Ecosystem.
 
-**Note:** there are AccessMonitor rules that depend on the [W3C HTML validator - validator.w3.org](https://amagovpt.github.io/validator-html)
+**Note:** there are AccessMonitor tests that depend on the [W3C HTML validator - validator.w3.org](https://validator.w3.org)
 
 ### Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem
 
