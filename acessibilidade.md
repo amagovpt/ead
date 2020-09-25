@@ -52,6 +52,6 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 
 - [Manuals for the AccessMonitor Ecosystem](https://github.com/amagovpt/monitor-manuals)
 
-## Accessibility and Usability Declaration Generator (source code)
+## Accessibility and Usability Statement Generator (source code)
 
 - [WAI-Tools PT v1.5 Generator](https://amagovpt.github.io/gerador/) | the Accessibility Statement Generator was built based on the [WAI-Tools project generator](https://www.w3.org/WAI/planning/statements/).
