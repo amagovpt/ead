@@ -15,7 +15,7 @@ Languages: [português](#pt-PT) | [english](#en)
 - [Admin Monitor Suite](https://github.com/amagovpt/admin-monitor-suite) - esta aplicação é usada para gerir todas as aplicações do Ecossistema AccessMonitor. É para ser usada por uma equipa que tenha por missão acompanhar a evolução de um conjunto alargado de sítios Web. Em Portugal esta aplicação é usada pela Equipa de Experiência Digital da AMA para acompanhar todos os sítios Web da Administração Pública Portuguesa.
 - [MonitorServer](https://github.com/amagovpt/monitor-server) - serve de suporte às 5 aplicações do Ecossistema AccessMonitor.
 
-**Nota:** há regras do AccessMonitor que dependem do [validador de HTML do W3C - validator.w3.org](https://amagovpt.github.io/validator-html)
+**Nota:** há regras do AccessMonitor que dependem do [validador de HTML do W3C - validator.w3.org](https://validator.w3.org)
 
 ### Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor
 
