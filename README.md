@@ -10,7 +10,7 @@ contém:
 
 - Ecossistema das aplicações AccessMonitor (inclui Observatório)
   - [Código fonte](acessibilidade.md#código-fonte-é-poss%C3%ADvel-usar-o-código-que-se-segue-nas-suas-próprias-aplicações-desde-que-a-fonte-seja-sempre-mencionada)
-  - Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor
+  - [Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor](acessibilidade.md#manuais-de-tradução-instalação-e-utilização-do-ecossistema-accessmonitor)
 - Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)
 - Lista de verificação manual para sítios Web cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
 - (em produção) Lista de verificação manual para aplicações móveis cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
