@@ -9,7 +9,7 @@ Languages: [português](#pt-PT) | <em lang="en">[english](#en)</em>
 contém:
 
 - Ecossistema das aplicações AccessMonitor (inclui Observatório)
-  - Código fonte
+  - [Código fonte](acessibilidade.md#código-fonte-é-poss%C3%ADvel-usar-o-código-que-se-segue-nas-suas-próprias-aplicações-desde-que-a-fonte-seja-sempre-mencionada)
   - Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor
 - Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)
 - Lista de verificação manual para sítios Web cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
