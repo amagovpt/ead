@@ -8,7 +8,7 @@ Languages: [português](#pt-PT) | <em lang="en">[english](#en)</em>
 
 contém:
 
-- Ecossistema das aplicações AccessMonitor (inclui Observatório)
+- [Ecossistema das aplicações AccessMonitor (inclui Observatório)](acessibilidade.md#ecossistema-das-aplicações-accessmonitor-inclui-observatório)
   - [Código fonte](acessibilidade.md#código-fonte-é-poss%C3%ADvel-usar-o-código-que-se-segue-nas-suas-próprias-aplicações-desde-que-a-fonte-seja-sempre-mencionada)
   - [Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor](acessibilidade.md#manuais-de-tradução-instalação-e-utilização-do-ecossistema-accessmonitor)
 - [Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)](acessibilidade.md#gerador-da-declaração-de-acessibilidade-e-usabilidade-código-fonte)
