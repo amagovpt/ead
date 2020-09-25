@@ -25,12 +25,6 @@ Languages: [português](#pt-PT) | [english](#en)
 
 - [Gerador WAI-Tools PT v1.5](https://amagovpt.github.io/gerador/) | o Gerador da Declaração de Acessibilidade foi construído com base no [Gerador do projeto WAI-Tools](https://www.w3.org/WAI/planning/statements/).
 
-
-## Selo de Usabilidade e Acessibilidade
-
-- [Kit do Selo de Usabilidade e Acessibilidade](https://amagovpt.github.io/kit-selo/)
-- [Listas de requisitos do Selo de Usabilidade e Acessibilidade](https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos)
-
 ## Lista de verificação manual cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
 
 No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma avaliação do sítio Web. A avaliação tem por referencial o padrão WCAG 2.1 (nível de conformidade 'AA'), o que é o mesmo que dizer que tem de cumprir as 50 cláusulas constantes da Norma Euroeia EN 301 549. Essa avaliação deve ser feita recorrendo a validadores automáticos de acessibilidade Web mas também, complementada, com avaliações manuais. As avaliações manuais são importantes para que seja eliminado ou reduzido o impacto dos falsos negativos e positivos a que as análises automáticas estão sujeitos. Por outro lado, repare que o legislador chega mesmo a aventar a possibilidade de afastar o procedimento de análise automática ficando apenas com o manual. Isto deve-se ao facto de nem sempre ser possível proceder ao uso de validadores automáticos nos conteúdos Web que estamos a desenvolver (e.g. uso de javascript que inibe a análise, páginas pós-login).
