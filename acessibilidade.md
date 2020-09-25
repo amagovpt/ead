@@ -19,7 +19,7 @@ Languages: [português](#pt-PT) | [english](#en)
 
 ### Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor
 
-- [Manuais do Ecossistema AccessMonitor](https://amagovpt.github.io/monitor-manuals)
+- [Manuais do Ecossistema AccessMonitor](https://github.com/amagovpt/monitor-manuals)
 
 ## Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)
 
@@ -50,7 +50,7 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 
 ### Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem
 
-- [Manuals for the AccessMonitor Ecosystem](https://amagovpt.github.io/monitor-manuals)
+- [Manuals for the AccessMonitor Ecosystem](https://github.com/amagovpt/monitor-manuals)
 
 ## Accessibility and Usability Declaration Generator (source code)
 
