@@ -33,7 +33,7 @@ contents:
 
 - [PT Observatory - Ecosystem of applications](acessibilidade.md#pt-observatory---ecosystem-of-applications)
   - [Source code](acessibilidade.md#source-code-you-can-use-the-following-code-in-your-own-applications-as-long-as-the-source-is-always-mentioned)
-  - Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem
+  - [Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem](acessibilidade.md#manuals-of-translation-installation-and-use-for-the-accessmonitor-ecosystem)
 - Accessibility and Usability Statement Generator (source code)
 </div>
 
