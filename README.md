@@ -1,10 +1,10 @@
 # Repositório de Recursos da EED da AMA / <em lang="en">Resource Repository of AMA's EED</em>
 
-Languages: português | english
+Languages: [português](#pt-PT) | [english](#en)
 
 <div id="pt-PT" lang="pt-PT"><abbr title="Português de Portugal">pt-PT</abbr></div>
 
-## Ecossistema das aplicações AccessMonitor
+## Ecossistema das aplicações AccessMonitor (inclui Observatório)
 
 ### Código fonte (é possível usar o código que se segue nas suas próprias aplicações desde que a fonte seja sempre mencionada)
 
@@ -41,7 +41,7 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 
 <div id="en" lang="en"><abbr title="English">EN</abbr></div>
 
-## Ecosystem of the AccessMonitor's applications
+## PT Observatory - Ecosystem of applications
 
 ### Source code (you can use the following code in your own applications as long as the source is always mentioned)
 
