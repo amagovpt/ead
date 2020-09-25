@@ -31,7 +31,7 @@ contém:
 
 contents:
 
-- PT Observatory - Ecosystem of applications
+- [PT Observatory - Ecosystem of applications](acessibilidade.md#pt-observatory---ecosystem-of-applications)
   - Source code
   - Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem
 - Accessibility and Usability Statement Generator (source code)
