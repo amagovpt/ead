@@ -13,7 +13,7 @@ contém:
   - Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor
 - Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)
 - Lista de verificação manual para sítios Web cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
-- Lista de verificação manual para aplicações móveis cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro (em produção)
+- (em produção) Lista de verificação manual para aplicações móveis cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
 
 ## Selo de Usabilidade e Acessibilidade
 
