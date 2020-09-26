@@ -23,7 +23,7 @@ Languages: [português](#pt-PT) | [english](#en)
 
 ## Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)
 
-- [Gerador WAI-Tools PT v1.5](https://amagovpt.github.io/gerador/) | o Gerador da Declaração de Acessibilidade foi construído com base no [Gerador do projeto WAI-Tools](https://www.w3.org/WAI/planning/statements/).
+- [Gerador WAI-Tools PT v1.5](https://www.github.com/amagovpt/gerador/) | o Gerador da Declaração de Acessibilidade foi construído com base no [Gerador do projeto WAI-Tools](https://www.w3.org/WAI/planning/statements/). Encontra o [Gerador da Declaração de Acessibilidade no sítio Web acessibilidade.gov.pt](https://www.acessibilidade.gov.pt/gerador/).
 
 ## Lista de verificação manual cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
 
@@ -54,4 +54,4 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 
 ## Accessibility and Usability Statement Generator (source code)
 
-- [WAI-Tools PT v1.5 Generator](https://amagovpt.github.io/gerador/) | the Accessibility Statement Generator was built based on the [WAI-Tools project generator](https://www.w3.org/WAI/planning/statements/).
+- [WAI-Tools PT v1.5 Generator](https://www.github.com/amagovpt/gerador/) | the Accessibility Statement Generator was built based on the [WAI-Tools project generator](https://www.w3.org/WAI/planning/statements/). You find the [Acessibility Statement Generator on the acessibilidade.gov.pt website](https://www.acessibilidade.gov.pt/gerador/).
