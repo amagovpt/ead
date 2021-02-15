@@ -41,10 +41,10 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
+        <p><a href="https://pages.github.com" lang="en">GitHub Pages</a></p>
         {% if site.github.is_project_page %}
-        <p class="copyright">&copy;2021. ({{ site.title | default: site.github.repository_name }}). Este repositório pertence a <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-        {% endif %}
-        <p><a href="https://pages.github.com" lang="en">GitHub Pages</a>.</p>
+        <p class="copyright">{{ site.title | default: site.github.repository_name }}. &copy;2021 - <abbr title="Agência para a Modernização Administrativa">AMA</abbr>, I.P.</p>
+        {% endif %}        
       </footer>
     </div>
 
