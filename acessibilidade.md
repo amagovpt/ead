@@ -1,5 +1,7 @@
 # Acessibilidade / <em lang="en">Accessibility</em>
 
+[< início](https://amagovpt.github.io/eed/)
+
 <em lang="en">Languages</em>: [português](#pt-PT) / [english](#en)
 
 <abbr title="Português de Portugal" lang="pt-PT" id="pt-PT">pt-PT</abbr>
