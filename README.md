@@ -1,6 +1,6 @@
 # Repositório de Recursos da EED da AMA / <em lang="en">Resource Repository of AMA's EED</em>
 
-Languages: [português](#pt-PT) | <em lang="en">[english](#en)</em>
+Languages: [português](#pt-PT) <> <em lang="en">[english](#en)</em>
 
 <div id="pt-PT" lang="pt-PT">
   
