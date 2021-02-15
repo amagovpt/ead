@@ -24,13 +24,11 @@ contém:
 
 <abbr id="en" title="english version" lang="en">EN</abbr>
 
-<div lang="en">
-## Accessibility
+## <em lang="en">Accessibility</em>
 
 contents:
 
-- [PT Observatory - Ecosystem of applications](acessibilidade.md#pt-observatory---ecosystem-of-applications)
-  - [Source code](acessibilidade.md#source-code-you-can-use-the-following-code-in-your-own-applications-as-long-as-the-source-is-always-mentioned)
-  - [Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem](acessibilidade.md#manuals-of-translation-installation-and-use-for-the-accessmonitor-ecosystem)
-- [Accessibility and Usability Statement Generator (source code)](acessibilidade.md#accessibility-and-usability-statement-generator-source-code)
-</div>
+- <em lang="en">[PT Observatory - Ecosystem of applications](acessibilidade.md#pt-observatory---ecosystem-of-applications)</em>
+  - <em lang="en">[Source code](acessibilidade.md#source-code-you-can-use-the-following-code-in-your-own-applications-as-long-as-the-source-is-always-mentioned)</em>
+  - <em lang="en">[Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem](acessibilidade.md#manuals-of-translation-installation-and-use-for-the-accessmonitor-ecosystem)</em>
+- <em lang="en">[Accessibility and Usability Statement Generator (source code)](acessibilidade.md#accessibility-and-usability-statement-generator-source-code)</em>
