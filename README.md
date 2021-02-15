@@ -1,4 +1,4 @@
-# Repositório de Recursos da EED da AMA / <em lang="en">Resource Repository of AMA's EED</em>
+# Repositório de Recursos / <em lang="en">Resource Repository</em>
 
 <em lang="en">Languages</em>: [português](#pt-PT) / <em lang="en">[english](#en)</em>
 
