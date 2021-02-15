@@ -23,7 +23,7 @@
 
 ## Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)
 
-- [Gerador WAI-Tools PT v1.5](https://www.github.com/amagovpt/gerador/) | o Gerador da Declaração de Acessibilidade foi construído com base no [Gerador do projeto WAI-Tools](https://www.w3.org/WAI/planning/statements/). Encontra o [Gerador da Declaração de Acessibilidade no sítio Web acessibilidade.gov.pt](https://www.acessibilidade.gov.pt/gerador/).
+- [Gerador WAI-Tools PT v1.5](https://www.github.com/amagovpt/gerador/) - o Gerador da Declaração de Acessibilidade foi construído com base no [Gerador do projeto WAI-Tools](https://www.w3.org/WAI/planning/statements/). Encontra o [Gerador da Declaração de Acessibilidade no sítio Web acessibilidade.gov.pt](https://www.acessibilidade.gov.pt/gerador/).
 
 ## Lista de verificação manual cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
 
@@ -32,8 +32,6 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 - [Lista de verificação manual "10 aspetos críticos de acessibilidade funcional](https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos.html). Disponibilizamos também uma versão desta lista de verificação em Excel para que possa efetuar a recolha das evidências que comprovem que, efetivamente, o seu sítio Web cumpre os requisitos constantes da lista. É esta folha Excel que é usada como anexo à Declaração de Acessibilidade e Usabilidade como relatório de uma análise manual levada a efeito. [Ficheiro Excel de recolha de evidências da lista de verificação "10 aspetos críticos de acessibilidade funcional](https://amagovpt.github.io/kit-selo/checklists/sintese-10aspetos.xlsx).
 
 <abbr id="en" title="English" lang="en">EN</abbr>
-
-<div lang="en">
 
 ## PT Observatory - Ecosystem of applications
 
@@ -55,5 +53,3 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 ## Accessibility and Usability Statement Generator (source code)
 
 - [WAI-Tools PT v1.5 Generator](https://www.github.com/amagovpt/gerador/) | the Accessibility Statement Generator was built based on the [WAI-Tools project generator](https://www.w3.org/WAI/planning/statements/). You find the [Acessibility Statement Generator on the acessibilidade.gov.pt website](https://www.acessibilidade.gov.pt/gerador/).
-
-</div>
