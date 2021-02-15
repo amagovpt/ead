@@ -1,8 +1,8 @@
 # Repositório de Recursos da EED da AMA / <em lang="en">Resource Repository of AMA's EED</em>
 
-Languages: [português](#pt-PT) / <em lang="en">[english](#en)</em>
+<em lang="en">Languages</em>: [português](#pt-PT) / <em lang="en">[english](#en)</em>
 
-<abbr title="versão portuguesa">pt-PT</abbr>
+<abbr id="pt-PT" title="versão portuguesa">pt-PT</abbr>
 
 ## Acessibibilidade
 
@@ -22,7 +22,7 @@ contém:
 - [Kit do Selo de Usabilidade e Acessibilidade](https://amagovpt.github.io/kit-selo/)
 - [Listas de requisitos do Selo de Usabilidade e Acessibilidade](https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos)
 
-<abbr title="english version" lang="en">EN</abbr>
+<abbr id="en" title="english version" lang="en">EN</abbr>
 
 ## Accessibility
 
