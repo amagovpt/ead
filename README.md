@@ -26,7 +26,7 @@ contém:
 
 ## <em lang="en">Accessibility</em>
 
-contents:
+<em lang="en">contents:</em>
 
 - <em lang="en">[PT Observatory - Ecosystem of applications](acessibilidade.md#pt-observatory---ecosystem-of-applications)</em>
   - <em lang="en">[Source code](acessibilidade.md#source-code-you-can-use-the-following-code-in-your-own-applications-as-long-as-the-source-is-always-mentioned)</em>
