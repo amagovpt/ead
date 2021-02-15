@@ -24,6 +24,7 @@ contém:
 
 <abbr id="en" title="english version" lang="en">EN</abbr>
 
+<div lang="en">
 ## Accessibility
 
 contents:
@@ -32,3 +33,4 @@ contents:
   - [Source code](acessibilidade.md#source-code-you-can-use-the-following-code-in-your-own-applications-as-long-as-the-source-is-always-mentioned)
   - [Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem](acessibilidade.md#manuals-of-translation-installation-and-use-for-the-accessmonitor-ecosystem)
 - [Accessibility and Usability Statement Generator (source code)](acessibilidade.md#accessibility-and-usability-statement-generator-source-code)
+</div>
