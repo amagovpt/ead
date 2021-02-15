@@ -2,7 +2,9 @@
 
 Languages: [português](#pt-PT) | <em lang="en">[english](#en)</em>
 
-<div id="pt-PT" lang="pt-PT"><abbr title="Português de Portugal">pt-PT</abbr>
+<div id="pt-PT" lang="pt-PT">
+  
+  <p><abbr title="Português de Portugal">pt-PT</abbr></p>
 
 ## Acessibibilidade
 
@@ -23,9 +25,10 @@ contém:
 - [Listas de requisitos do Selo de Usabilidade e Acessibilidade](https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos)
 
 </div>
----
 
-<div id="en" lang="en"><abbr title="English">EN</abbr>
+<div id="en" lang="en">
+  
+  <p><abbr title="English">EN</abbr></p>
 
 ## Accessibility
 
