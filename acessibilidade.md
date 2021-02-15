@@ -35,23 +35,23 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 
 <abbr id="en" title="English" lang="en">EN</abbr>
 
-## PT Observatory - Ecosystem of applications
+## <em lang="en">PT Observatory - Ecosystem of applications</em>
 
-### Source code (you can use the following code in your own applications as long as the source is always mentioned)
+### <em lang="en">Source code (you can use the following code in your own applications as long as the source is always mentioned)</em>
 
-- [AccessMonitor](https://github.com/amagovpt/access-monitor-plus) - validator of Web accessibility practices according to WCAG 2.1 standard (includes some [ACT-R rules](https://act-rules.github.io/pages/about)) - with this validator you can immediately get an accessibility report from a page written in HTML.
-- [Portuguese Observatory of Web Accessibility](https://github.com/amagovpt/observatory) - Observatory that provides global data on the Web accessibility practices of a website, a sector of activity, a country. This application is being used by the Portuguese Government to carry out a monitoring of all the websites covered by DL nº 83/2018, of 19 October, a diploma that transposed Directive (EU) 2016/2102 - accessibility of websites and mobile applications of public bodies. 
-- [MyMonitor](https://github.com/amagovpt/my-monitor) - provides detailed information on Web accessibility practices found on a website. This application allows access to global data but also detailed data on the practices found, allowing you to monitor the website but also to accurately understand where errors are and correct them. An entity that is confronted with data from the Observatory will ask: "very well, now that I know the global state of the art in which my website is, what can I do to improve my Web accessibility practices?" MyMonitor provides entities with all the necessary details so that entities can correct their web design trajectories.
-- [StudyMonitor](https://github.com/amagovpt/study-monitor) - it is aimed firsthand at researchers who want to apply our analysis algorithm to a set of websites for the purpose of producing research studies analysis of accessibility practices on the Web. Several researchers have already used it in Master and PhD theses.
-- [Admin Monitor Suite](https://github.com/amagovpt/admin-monitor-suite) - this application is used to manage all AccessMonitor Ecosystem applications. It is to be used by a team whose mission is to monitor the evolution of a wide range of websites. In Portugal this application is used by the AMA Digital Experience Team to monitor all Portuguese Public Administration websites.
-- [MonitorServer](https://github.com/amagovpt/monitor-server) - supports the 5 applications of the AccessMonitor Ecosystem.
+- <em lang="en">[AccessMonitor](https://github.com/amagovpt/access-monitor-plus) - validator of Web accessibility practices according to WCAG 2.1 standard (includes some [ACT-R rules](https://act-rules.github.io/pages/about)) - with this validator you can immediately get an accessibility report from a page written in HTML.</em>
+- <em lang="en">[Portuguese Observatory of Web Accessibility](https://github.com/amagovpt/observatory) - Observatory that provides global data on the Web accessibility practices of a website, a sector of activity, a country. This application is being used by the Portuguese Government to carry out a monitoring of all the websites covered by DL nº 83/2018, of 19 October, a diploma that transposed Directive (EU) 2016/2102 - accessibility of websites and mobile applications of public bodies.</em>
+- <em lang="en">[MyMonitor](https://github.com/amagovpt/my-monitor) - provides detailed information on Web accessibility practices found on a website. This application allows access to global data but also detailed data on the practices found, allowing you to monitor the website but also to accurately understand where errors are and correct them. An entity that is confronted with data from the Observatory will ask: "very well, now that I know the global state of the art in which my website is, what can I do to improve my Web accessibility practices?" MyMonitor provides entities with all the necessary details so that entities can correct their web design trajectories.</em>
+- <em lang="en">[StudyMonitor](https://github.com/amagovpt/study-monitor) - it is aimed firsthand at researchers who want to apply our analysis algorithm to a set of websites for the purpose of producing research studies analysis of accessibility practices on the Web. Several researchers have already used it in Master and PhD theses.</em>
+- <em lang="en">[Admin Monitor Suite](https://github.com/amagovpt/admin-monitor-suite) - this application is used to manage all AccessMonitor Ecosystem applications. It is to be used by a team whose mission is to monitor the evolution of a wide range of websites. In Portugal this application is used by the AMA Digital Experience Team to monitor all Portuguese Public Administration websites.</em>
+- <em lang="en">[MonitorServer](https://github.com/amagovpt/monitor-server) - supports the 5 applications of the AccessMonitor Ecosystem.</em>
 
-**Note:** there are AccessMonitor tests that depend on the [W3C HTML validator - validator.w3.org](https://validator.w3.org)
+<em lang="en">**Note:** there are AccessMonitor tests that depend on the [W3C HTML validator - validator.w3.org](https://validator.w3.org)</em>
 
-### Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem
+### <em lang="en">Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem</em>
 
-- [Manuals for the AccessMonitor Ecosystem](https://github.com/amagovpt/monitor-manuals)
+- <em lang="en">[Manuals for the AccessMonitor Ecosystem](https://github.com/amagovpt/monitor-manuals)</em>
 
-## Accessibility and Usability Statement Generator (source code)
+## <em lang="en">Accessibility and Usability Statement Generator (source code)</em>
 
-- [WAI-Tools PT v1.5 Generator](https://www.github.com/amagovpt/gerador/) - the Accessibility Statement Generator was built based on the [WAI-Tools project generator](https://www.w3.org/WAI/planning/statements/). You find the [Acessibility Statement Generator on the acessibilidade.gov.pt website](https://www.acessibilidade.gov.pt/gerador/).
+- <em lang="en">[WAI-Tools PT v1.5 Generator](https://www.github.com/amagovpt/gerador/) - the Accessibility Statement Generator was built based on the [WAI-Tools project generator](https://www.w3.org/WAI/planning/statements/). You find the [Acessibility Statement Generator on the acessibilidade.gov.pt website](https://www.acessibilidade.gov.pt/gerador/).</em>
