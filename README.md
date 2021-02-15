@@ -2,9 +2,7 @@
 
 Languages: [português](#pt-PT) <> <em lang="en">[english](#en)</em>
 
-<div id="pt-PT" lang="pt-PT">
-  
-  <p><abbr title="Português de Portugal">pt-PT</abbr></p>
+pt-PT
 
 ## Acessibibilidade
 
@@ -24,11 +22,7 @@ contém:
 - [Kit do Selo de Usabilidade e Acessibilidade](https://amagovpt.github.io/kit-selo/)
 - [Listas de requisitos do Selo de Usabilidade e Acessibilidade](https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos)
 
-</div>
-
-<div id="en" lang="en">
-  
-  <p><abbr title="English">EN</abbr></p>
+EN
 
 ## Accessibility
 
@@ -38,5 +32,3 @@ contents:
   - [Source code](acessibilidade.md#source-code-you-can-use-the-following-code-in-your-own-applications-as-long-as-the-source-is-always-mentioned)
   - [Manuals of Translation, Installation and Use for the AccessMonitor Ecosystem](acessibilidade.md#manuals-of-translation-installation-and-use-for-the-accessmonitor-ecosystem)
 - [Accessibility and Usability Statement Generator (source code)](acessibilidade.md#accessibility-and-usability-statement-generator-source-code)
-</div>
-
