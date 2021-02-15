@@ -1,8 +1,8 @@
 # Acessibilidade / <em lang="en">Accessibility</em>
 
-Languages: [português](#pt-PT) | [english](#en)
+<em lang="en">Languages</em>: [português](#pt-PT) / [english](#en)
 
-<div id="pt-PT" lang="pt-PT"><abbr title="Português de Portugal">pt-PT</abbr></div>
+<div id="pt-PT" lang="pt-PT"><abbr title="Português de Portugal">pt-PT</abbr>
 
 ## Ecossistema das aplicações AccessMonitor (inclui Observatório)
 
@@ -31,9 +31,9 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 
 - [Lista de verificação manual "10 aspetos críticos de acessibilidade funcional](https://amagovpt.github.io/kit-selo/checklists/checklist-10aspetos.html). Disponibilizamos também uma versão desta lista de verificação em Excel para que possa efetuar a recolha das evidências que comprovem que, efetivamente, o seu sítio Web cumpre os requisitos constantes da lista. É esta folha Excel que é usada como anexo à Declaração de Acessibilidade e Usabilidade como relatório de uma análise manual levada a efeito. [Ficheiro Excel de recolha de evidências da lista de verificação "10 aspetos críticos de acessibilidade funcional](https://amagovpt.github.io/kit-selo/checklists/sintese-10aspetos.xlsx).
 
----
+</div>
 
-<div id="en" lang="en"><abbr title="English">EN</abbr></div>
+<div id="en" lang="en"><abbr title="English">EN</abbr>
 
 ## PT Observatory - Ecosystem of applications
 
@@ -55,3 +55,5 @@ No artigo 9.º do DL n.º 83/2018 refere-se que é obrigatório proceder a uma a
 ## Accessibility and Usability Statement Generator (source code)
 
 - [WAI-Tools PT v1.5 Generator](https://www.github.com/amagovpt/gerador/) | the Accessibility Statement Generator was built based on the [WAI-Tools project generator](https://www.w3.org/WAI/planning/statements/). You find the [Acessibility Statement Generator on the acessibilidade.gov.pt website](https://www.acessibilidade.gov.pt/gerador/).
+
+</div>
