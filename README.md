@@ -24,7 +24,7 @@ contém:
 
 <abbr id="en" title="english version" lang="en">EN</abbr>
 
-<div lang="en">## Accessibility</div>
+## <em lang="en">Accessibility</em>
 
 <em lang="en">contents:</em>
 
