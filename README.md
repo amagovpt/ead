@@ -13,6 +13,7 @@ contém:
   - [Manuais de Tradução, Instalação e Utilização do Ecossistema AccessMonitor](acessibilidade.md#manuais-de-tradução-instalação-e-utilização-do-ecossistema-accessmonitor)
 - [Gerador da Declaração de Acessibilidade e Usabilidade (código fonte)](acessibilidade.md#gerador-da-declaração-de-acessibilidade-e-usabilidade-código-fonte)
 - [Lista de verificação manual para sítios Web cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro](acessibilidade.md#lista-de-verificação-manual-cuja-definição-é-solicitada-no-decreto-lei-nº-832018-de-19-de-outubro)
+- [Racional da formula de cálculo do AccessMonitor](2021-02-24-accessmonitor-score.md)
 - (em produção) Lista de verificação manual para aplicações móveis cuja definição é solicitada no Decreto-lei n.º 83/2018, de 19 de outubro
 
 ## Selo de Usabilidade e Acessibilidade
