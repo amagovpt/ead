@@ -1,4 +1,4 @@
-| :-------: | :-------: |
+| --------- | --------- |
 | sítio Web | Categoria |
 | :-------- | :-------- |
 | [Administração Regional de Saúde de Lisboa e Vale do Tejo, I.P.](https://www.arslvt.min-saude.pt) | Administração Central | 
