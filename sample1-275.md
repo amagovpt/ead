@@ -3,7 +3,7 @@
 Esta página contém:
 
 - [Listagem dos 275 sítios Web](#listagem-dos-275-sítios-web)
-- [Listagem das 6 aplicações móveis](#Listagem-das-6-aplicações-móveis)
+- [Listagem das 6 aplicações móveis](#listagem-das-6-aplicações-móveis)
 
 
 ### Listagem dos 275 sítios Web
@@ -297,6 +297,6 @@ Esta página contém:
 | 5. Autenticação Gov |
 | 6. Comboios de Portugal |
 
-Fonte: https://www.app.gov.pt/Application/All?language=pt-PT&store=1&privacy=all
+Fonte: [https://www.app.gov.pt/Application/All?language=pt-PT&store=1&privacy=all](https://www.app.gov.pt/Application/All?language=pt-PT&store=1&privacy=all).
 
 
