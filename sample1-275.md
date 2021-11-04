@@ -1,6 +1,12 @@
-# Amostra do 1º período de monitorização 2020 - 2021
+## Amostra do 1º período de monitorização 2020 - 2021
 
-## Listagem dos 275 sítios Web
+Esta página contém:
+
+- [Listagem dos 275 sítios Web]
+- [Listagem das 6 aplicações móveis]
+
+
+### Listagem dos 275 sítios Web
 
 | sítio Web | Categoria |
 | :-------- | :-------- |
@@ -280,7 +286,7 @@
 | [TRANSPORTES AÉREOS PORTUGUESES, S.A.](https://www.flytap.com) | Setor Público Empresarial do Estado | 
 | [TRATOLIXO - TRATAMENTO DE RESÍDUOS SÓLIDOS E.I.M. - EMPRESA INTERMUNICIPAL, S.A.](https://www.tratolixo.pt) | Setor Público Empresarial do Estado | 
 
-## Listagem das 6 aplicações móveis
+### Listagem das 6 aplicações móveis
 
 | Aplicação |
 | :-------- |
@@ -291,6 +297,6 @@
 | 5. Autenticação Gov |
 | 6. Comboios de Portugal |
 
-Fonte: https://www.app.gov.pt/Application/All?language=pt-PT&store=1&privacy=all![image](https://user-images.githubusercontent.com/27677125/140413890-38f38308-9756-4907-a479-b36a4f945693.png)
+Fonte: https://www.app.gov.pt/Application/All?language=pt-PT&store=1&privacy=all
 
 
