@@ -161,7 +161,7 @@ Esta página contém:
 | [Vila Real](http://www.cm-vilareal.pt) | Municípios | 
 | [Viseu](http://www.cm-viseu.pt) | Municípios | 
 | [Casa Colombo - Museu de Porto Santo](http://www.museucolombo-portosanto.com/home.html) | Museus | 
-| [Casa-Museu Frederico de Freitas](http://cultura.madeira-edu.pt/museus/Museus/CasaMuseuFredericodeFreitas/tabid/188/language/pt-PT/Default.aspx) | Museus | 
+| [Museus da Madeira](http://cultura.madeira-edu.pt/museus.html) | Museus | 
 | [Museu das Flores](http://www.museu-flores.azores.gov.pt) | Museus | 
 | [Museu de Angra do Heroísmo](http://museu-angra.azores.gov.pt/) | Museus | 
 | [Museu do Pico / Museu dos Baleeiros](http://www.museu-pico.azores.gov.pt/) | Museus | 
