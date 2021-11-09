@@ -253,7 +253,7 @@ Esta página contém:
 | [Instituto das Florestas e Conservação da Natureza, IP-RAM](https://ifcn.madeira.gov.pt) | Região Autónoma da Madeira | 
 | [Instituto de Administração da Saúde, IP-RAM](https://iasaude.pt) | Região Autónoma da Madeira | 
 | [Instituto de Emprego da Madeira, IP-RAM](https://www.iem.madeira.gov.pt/) | Região Autónoma da Madeira | 
-| [Direção Regional de Administração Escolar da Madeira - Delegações Escolares](http://delegacoes.madeira-edu.pt ) | Região Autónoma da Madeira | 
+| [Portal Madeira Toda sua / DG Turismo](https://www.visitmadeira.pt) | Região Autónoma da Madeira | 
 | [SDM - Sociedade de Desenvolvimento da Madeira, S.A.](https://www.ibc-madeira.com) | Região Autónoma da Madeira | 
 | [Serviço de Saúde da Região Autónoma da Madeira, E.P.E.](http://www.sesaram.pt) | Região Autónoma da Madeira | 
 | [Serviço Regional de Proteção Civil da Madeira](https://www.procivmadeira.pt) | Região Autónoma da Madeira | 
